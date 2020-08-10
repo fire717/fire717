@@ -24,7 +24,5 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Language
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fire717&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
