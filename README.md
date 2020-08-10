@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 ### Github Stats
 
 
-[![Fire's github stats](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=radical)
+#[![Fire's github stats](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
