@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![Fire's github stats](https://github-readme-stats.vercel.app/api?username=fire717)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fire717)](https://github.com/anuraghazra/github-readme-stats)tats)
