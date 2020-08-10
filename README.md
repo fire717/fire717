@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <a href="https://www.douban.com/people/fire15/">豆瓣</a>
 </p>
 
-### Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
