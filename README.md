@@ -9,7 +9,7 @@
 * [Blog](https://fire15.com)
 * [知乎](https://www.zhihu.com/people/yi-wei-07-17)
 * [豆瓣](https://www.douban.com/people/fire15)
-* 联系方式：左侧邮箱
+* 联系方式：yw圈fire15.com
 
 ### ✨ Footprint
 * 无参考论文、开源项目，复现谷歌2021 MoveNet，并在极市平台公众号封面分享文章：《2021轻量级人体姿态估计模型修炼之路（附谷歌MoveNet复现经验）》
