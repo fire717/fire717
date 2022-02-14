@@ -6,7 +6,8 @@
 [![](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Info
-[Blog](https://fire15.com) - [知乎](https://www.zhihu.com/people/yi-wei-07-17) - [豆瓣](https://www.douban.com/people/fire15) - 邮箱：yw圈fire15.com
+* [Blog](https://fire15.com) - [知乎](https://www.zhihu.com/people/yi-wei-07-17) - [豆瓣](https://www.douban.com/people/fire15) 
+* E-mail：yw圈fire15.com
 
 ### ✨ Footprint
 * 无参考论文、开源项目，复现谷歌2021 MoveNet，并在极市平台公众号封面分享文章：《2021轻量级人体姿态估计模型修炼之路（附谷歌MoveNet复现经验）》
@@ -14,7 +15,7 @@
 
 ### 💬 Idea
 * 成为算法专家 or 数据科学家~
-* 交更多对技术感兴趣可以经常探讨的朋友😄~
+* 交更多对技术感兴趣、可以经常探讨的朋友😄~
 
 
 
