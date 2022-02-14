@@ -7,6 +7,7 @@
 
 ### 📫 Info
 * [Blog](https://fire15.com) - [知乎](https://www.zhihu.com/people/yi-wei-07-17) - [豆瓣](https://www.douban.com/people/fire15) 
+* 目前深耕CV，涉猎数据挖掘、推荐系统、NLP，对量化感兴趣
 * E-mail：yw圈fire15.com
 
 ### ✨ Footprint
