@@ -9,6 +9,7 @@
 * [Blog](https://fire15.com) - [知乎](https://www.zhihu.com/people/yi-wei-07-17) - [豆瓣](https://www.douban.com/people/fire15) 
 * 目前深耕CV，涉猎数据挖掘、推荐系统、NLP，对量化感兴趣
 * 项目经验：车牌识别、证件表单识别等OCR相关项目；人脸检测、分类、识别、关键点、美化、活体等人脸相关算法；人体检测、姿态、分割等人体相关项目；人流计数、边界预警、裂纹检测、烟火检测等安防项目；
+* 落地软硬件环境：华为海思板子、RK3399板子+安卓、Jetson Nano&NX板子、Windows 10&Server、Ubuntu等
 * E-mail：yw圈fire15.com
 
 ### ✨ Footprint
