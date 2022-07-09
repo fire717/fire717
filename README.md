@@ -11,9 +11,9 @@
 * 落地软硬件环境：华为海思板子、RK3399板子+安卓、Jetson Nano&NX板子、Windows 10&Server、Ubuntu等
 
 ### ✨ Footprint
-* [2021山东省第三届数据应用创新创业大赛-主赛场-烟火云雾识别赛道](https://data.sd.gov.cn/cmpt/cmptDetail.html?id=61)：第一名 [单人参赛]
+* [2021山东省第三届数据应用创新创业大赛-主赛场-烟火云雾识别赛道](https://data.sd.gov.cn/cmpt/cmptDetail.html?id=61)：第一名 (1/247) [单人参赛]
 * 在极市平台公众号发表文章：[《2021轻量级人体姿态估计模型修炼之路（附谷歌MoveNet复现经验）》](https://zhuanlan.zhihu.com/p/413313925)
-* [2020中国华录杯·数据湖算法大赛—吸烟打电话检测赛道](https://github.com/fire717/hualubei2020-callingsmoking)：第二名 [单人参赛]
+* [2020中国华录杯·数据湖算法大赛—吸烟打电话检测赛道](https://github.com/fire717/hualubei2020-callingsmoking)：第二名 (2/1183) [单人参赛]
 
 
 
