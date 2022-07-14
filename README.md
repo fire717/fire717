@@ -15,7 +15,7 @@
   * 工业：裂纹检测、瑕疵检测、指针仪表读数；
   * 落地环境：
     * 软件&系统&平台：ARM、X86，Android、Ubuntu、CentOS、Windows 10、Windows Server等；
-    * 硬件：RK3399、华为海思板、Jetson Nano&NX板等；
+    * 硬件：RK3399、华为海思板、NVIDIA Jetson Nano&NX板等；
 
 ### ✨ Footprint
 * [2021山东省第三届数据应用创新创业大赛-主赛场-烟火云雾识别赛道](https://data.sd.gov.cn/cmpt/cmptDetail.html?id=61)：第一名 (1/247) [单人]
