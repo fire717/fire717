@@ -18,6 +18,7 @@
     * 硬件：RK3399、华为海思板、NVIDIA Jetson Nano&NX板等；
 
 ### ✨ Footprint
+* [2022“域见杯”医检人工智能开发者大赛](https://competition.huaweicloud.com/information/1000041723/introduction)：第一名 (1/903) [单人]
 * [2022数字中国创新大赛-科技金融子赛道——基于文本字符的交易验证码识别](https://www.dcic-china.com/competitions/10023/ranking?sch=10037&stage=A)：第一名 (1/826) [单人]
 * [2021山东省第三届数据应用创新创业大赛-主赛场-烟火云雾识别赛道](https://data.sd.gov.cn/cmpt/cmptDetail.html?id=61)：第一名 (1/247) [单人]
 * 在极市平台公众号发表文章：[《2021轻量级人体姿态估计模型修炼之路（附谷歌MoveNet复现经验）》](https://zhuanlan.zhihu.com/p/413313925)
