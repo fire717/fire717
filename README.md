@@ -7,7 +7,7 @@
 
 ### 📫 Info
 * Dive into CV, intrested in Data Mining, Recommendation System, NLP, etc.
-* 项目经验：
+* Experience:
   * OCR：车牌识别、证件表单识别、验证码识别、屏幕文本识别等；
   * 人脸：人脸检测、属性识别、人脸识别、人脸关键点、人脸美化、活体检测、头发分割、人头计数等；
   * 人体：人体检测、人体姿态估计、人体分割、人体计数等；
