@@ -17,7 +17,7 @@
     * 软件&系统&平台：ARM、X86，Android、Ubuntu、CentOS、Windows 10、Windows Server等；
     * 硬件：RK3399、华为海思板、NVIDIA Jetson Nano&NX板等；
 
-【接各类算法需求合作，有意可左侧邮件联系。】
+> 承接各类算法、项目合作，有意可左侧邮件联系。
 
 ### ✨ Footprint
 * [2022 “域见杯”医检人工智能开发者大赛](https://competition.huaweicloud.com/information/1000041723/introduction)：第一名 (1/903) [单人]
