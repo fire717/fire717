@@ -22,7 +22,7 @@
 * [2022 “域见杯”医检人工智能开发者大赛](https://competition.huaweicloud.com/information/1000041723/introduction)：第一名 (1/903) [单人]
 * [2022 数字中国创新大赛-科技金融子赛道——基于文本字符的交易验证码识别](https://www.dcic-china.com/competitions/10023/ranking?sch=10037&stage=A)：第一名 (1/826) [单人]
 * [2021 山东省第三届数据应用创新创业大赛-主赛场-烟火云雾识别赛道](https://data.sd.gov.cn/cmpt/cmptDetail.html?id=61)：第一名 (1/247) [单人]
-* [2021 全网首个复现MoveNet] 分享文章：[《2021轻量级人体姿态估计模型修炼之路（附谷歌MoveNet复现经验）》](https://zhuanlan.zhihu.com/p/413313925)
+* 2021 全网首个复现MoveNet 分享文章：[《2021轻量级人体姿态估计模型修炼之路（附谷歌MoveNet复现经验）》](https://zhuanlan.zhihu.com/p/413313925)
 * [2020 中国华录杯·数据湖算法大赛—吸烟打电话检测赛道](https://github.com/fire717/hualubei2020-callingsmoking)：第二名 (2/1183) [单人]
 
 <!-- Other
