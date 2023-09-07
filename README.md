@@ -6,7 +6,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Info
-* Dive into CV.
+* Dive into CV. 公众号：FireAICV。
 * Experience:
   * OCR：车牌识别、证件表单识别、验证码识别、屏幕文本识别等；
   * 人脸：人脸检测、属性识别、人脸识别、人脸关键点、人脸美化、活体检测、头发分割、人头计数等；
