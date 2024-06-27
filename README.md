@@ -6,26 +6,18 @@
 [![](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Info
-* Dive into CV. 公众号：FireAICV
+* Dive into Computer Vision
+* 公众号：FireAICV
+* 算法项目落地多项
 * AI算法竞赛爱好者
-* Experience:
-  * OCR：车牌识别、证件表单识别、验证码识别、屏幕文本识别等；
-  * 人脸：人脸检测、属性识别、人脸识别、人脸关键点、人脸美化、活体检测、头发分割、人头计数等；
-  * 人体：人体检测、人体姿态估计、人体分割、人体计数等；
-  * 安防：人流计数、边界预警、入侵检测、烟火检测、劳保穿戴等；
-  * 工业：裂纹检测、瑕疵检测、指针仪表读数；
-  * 落地环境：
-    * 软件&系统&平台：ARM、X86，Android、Ubuntu、CentOS、Windows 10、Windows Server等；
-    * 硬件：RK3399、华为海思板、NVIDIA Jetson Nano&NX板等；
-
 
 ### ✨ Footprint
-* [2023 iFLYTEK A.I.开发者大赛—高分辨率遥感影像建筑物变化检测挑战赛](http://challenge.xfyun.cn/topic/info?type=high-resolution-2023&option=ssgy): 冠军 (1/235)
-* [2022 华为云“域见杯”医检人工智能开发者大赛](https://competition.huaweicloud.com/information/1000041723/introduction)：冠军 (1/903)
-* [2022 DCIC数字中国创新大赛-科技金融子赛道—基于文本字符的交易验证码识别](https://www.dcic-china.com/competitions/10023/ranking?sch=10037&stage=A)：冠军 (1/826)
-* [2021 山东省第三届数据应用创新创业大赛—主赛场—烟火云雾识别赛道](https://data.sd.gov.cn/cmpt/cmptDetail.html?id=61)：冠军 (1/247)
+* [2023 iFLYTEK A.I.开发者大赛—高分辨率遥感影像建筑物变化检测挑战赛](http://challenge.xfyun.cn/topic/info?type=high-resolution-2023&option=ssgy): 冠军
+* [2022 华为云“域见杯”医检人工智能开发者大赛](https://competition.huaweicloud.com/information/1000041723/introduction)：冠军
+* [2022 DCIC数字中国创新大赛-科技金融子赛道—基于文本字符的交易验证码识别](https://www.dcic-china.com/competitions/10023/ranking?sch=10037&stage=A)：冠军
+* [2021 山东省第三届数据应用创新创业大赛—主赛场—烟火云雾识别赛道](https://data.sd.gov.cn/cmpt/cmptDetail.html?id=61)：冠军
 * 2021 全网首个复现MoveNet [《2021轻量级人体姿态估计模型修炼之路（附谷歌MoveNet复现经验）》](https://zhuanlan.zhihu.com/p/413313925)
-* [2020 中国华录杯·数据湖算法大赛—吸烟打电话检测赛道](https://github.com/fire717/hualubei2020-callingsmoking)：亚军 (2/1183)
+* [2020 中国华录杯·数据湖算法大赛—吸烟打电话检测赛道](https://github.com/fire717/hualubei2020-callingsmoking)：亚军
 
 
 
