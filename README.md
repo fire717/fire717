@@ -4,6 +4,7 @@
 
 
 [![](https://github-readme-stats.vercel.app/api?username=fire717&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ### 📫 Info
 * Dive into Computer Vision
